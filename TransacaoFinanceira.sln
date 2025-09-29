@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransacaoFinanceira", "TransacaoFinanceira.csproj", "{5D310ED1-326E-2ABE-71EB-5D28D1E9684C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransacaoFinanceira.Tests", "TransacaoFinanceira.Tests\TransacaoFinanceira.Tests.csproj", "{13379DEA-2A88-86ED-06D1-F01C35EC54DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D310ED1-326E-2ABE-71EB-5D28D1E9684C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D310ED1-326E-2ABE-71EB-5D28D1E9684C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D310ED1-326E-2ABE-71EB-5D28D1E9684C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D310ED1-326E-2ABE-71EB-5D28D1E9684C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13379DEA-2A88-86ED-06D1-F01C35EC54DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13379DEA-2A88-86ED-06D1-F01C35EC54DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13379DEA-2A88-86ED-06D1-F01C35EC54DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13379DEA-2A88-86ED-06D1-F01C35EC54DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D59CE080-48BC-4A2B-A80E-6C931C34141D}
+	EndGlobalSection
+EndGlobal
