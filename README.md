@@ -41,6 +41,13 @@ Clone o repositório e instale o "C# Dev Kit" no VS Code.
 Abra o terminal no VS Code e navegue até a pasta do projeto.
 Para compilar e executar o projeto, digite o comando 'dotnet run'
 
+## Projeto inicial ✅
+Segue link para o projeto inicial com os ajustes de compilação realizados antes da refatoração
+https://github.com/petrick2112/TransacaoFinanceira/tree/main/projetoOriginal
+
+Segue link da documentação:
+https://github.com/petrick2112/TransacaoFinanceira/blob/main/projetoOriginal/README.md
+
 ## Contribua! 🤝
 Sugestões e melhorias são bem-vindas! Envie um pull request ou abra uma issue.
 
